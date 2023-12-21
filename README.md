@@ -1,6 +1,6 @@
 # Deep-Learning
 <br>
-*Deep Learning, LLM, Computer Vision, Generative*
+Deep Learning, LLM, Computer Vision, Generative
 <br>
 <br>
 <br>
